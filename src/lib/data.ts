@@ -94,7 +94,8 @@ export const portfolioData = {
         {title: "TeamSpeak Overlay (C++/QT6)", url: "https://github.com/PandaDex/TeamSpeak-6-Overlay"},
         {title: "Eyes Of The Elderwood (C++/UE Blueprint)", url: "https://store.steampowered.com/app/3963050/Eyes_Of_The_ElderWood"},
         {title: "KES Engine (C++) Work In Progress", url: "https://github.com/PandaDex/kes-engine"},
-        {title: "This Resume (JS/Html/Svelte)", url: "https://github.com/PandaDex/resume"}
+        {title: "This Resume (JS/Html/Svelte)", url: "https://github.com/PandaDex/resume"},
+        {title: "Simple OS (Assembly/C) Work In Progress", url: "https://github.com/PandaDex/os"}
       ]
     }
   ]
